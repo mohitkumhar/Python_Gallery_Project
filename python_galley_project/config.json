@@ -1,0 +1,15 @@
+{
+    "params":{
+        "login_image": "mk.png",
+        "myAlbum_title": "My Album",
+        "instagram_url": "https://www.instagram.com/mohit_prajapat_7/",
+        "twitter_url": "https://twitter.com/Mohit57787327",
+        "facebook_url": "https://www.facebook.com/profile.php?id=100090354816352",
+        "github_url": "https://github.com/mohitkumhar",
+        "admin_user": "mohit",
+        "admin_password": "mohit",
+        "image_upload_location": "D:\\mohit\\work\\python\\Project pyhton\\todo_flask_project\\static\\img",
+        "noOfPhoto_onHomePage": 6
+
+    }
+}
