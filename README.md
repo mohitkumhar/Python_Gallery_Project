@@ -1,7 +1,6 @@
 # Python_Gallery_Project
 
-This is a Python-based gallery project that allows users to manage and display their image collections. It provides a simple command-line interface for performing various operations on the gallery.
-
+This is Python Flask Based Secured Gallery, where you can safelly store your photos and you get better preview
 ## Features
 
 - Add images to the gallery
